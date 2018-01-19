@@ -54,14 +54,6 @@
     "uglifyjs-webpack-plugin": "1.1.2",
     "webpack": "^3.10.0"
   },
-  "now": {
-    "env": {
-      "TWITTER_CONSUMER_KEY": "@twitter-consumer-key",
-      "TWITTER_CONSUMER_SECRET": "@twitter-consumer-secret",
-      "TWITTER_ACCESS_TOKEN_KEY": "@twitter-access-token-key",
-      "TWITTER_ACCESS_TOKEN_SECRET": "@twitter-access-token-secret"
-    }
-  },
   "lint-staged": {
     " *.js": [
       "prettier",
